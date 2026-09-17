@@ -1,0 +1,27 @@
+# Ingurune birtualak
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Sekretuak
+.env
+*.env
+credentials.json
+
+# ML / Data
+*.pkl
+*.h5
+data/raw/
+
+# IDE / sistema
+.vscode/settings.json
+.idea/
+.DS_Store
+
+# Testing
+.pytest_cache/
+.coverage
