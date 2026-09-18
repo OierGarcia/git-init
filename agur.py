@@ -14,4 +14,6 @@ def agur_eman():
 if __name__ == "__main__":
     agur("Oier", "eu")
     agur("Mikel", "es")
+    agur("Joseba", "en")
     agur_eman()
+
